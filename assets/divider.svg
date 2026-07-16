@@ -1,0 +1,17 @@
+<svg width="850" height="14" viewBox="0 0 850 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39FF14" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39FF14"/>
+      <stop offset="1" stop-color="#39FF14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .pulse { animation: sweep 3.2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+    @keyframes sweep { from { transform: translateX(-160px); } to { transform: translateX(880px); } }
+  </style>
+  <rect x="0" y="6" width="850" height="2" rx="1" fill="#39FF14" opacity="0.18"/>
+  <g class="pulse">
+    <rect x="0" y="5" width="150" height="4" rx="2" fill="url(#lg)" style="filter: drop-shadow(0 0 5px #39FF14)"/>
+  </g>
+</svg>

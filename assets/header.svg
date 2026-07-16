@@ -1,0 +1,89 @@
+<svg width="850" height="260" viewBox="0 0 850 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="panel"><rect x="0" y="0" width="850" height="260" rx="14"/></clipPath>
+    <pattern id="scan" width="850" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="850" height="1" fill="#ffffff" opacity="0.025"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .prompt { fill: #39FF14; font-size: 17px; }
+    .cmd { fill: #e6edf3; font-size: 17px; }
+    .hero { fill: #39FF14; font-size: 22px; font-weight: bold; letter-spacing: 2px;
+            filter: drop-shadow(0 0 7px rgba(57,255,20,0.85)); }
+    .out { fill: #58a6ff; font-size: 15px; }
+    .title { fill: #8b949e; font-size: 13px; }
+    .rain { fill: #39FF14; font-size: 13px; opacity: 0.10; }
+
+    .cover { fill: #0d1117; transform-box: fill-box; transform-origin: right center; }
+    .c1 { animation: kc1 12s infinite; }
+    .o1 { animation: ko1 12s infinite; }
+    .p2 { animation: kp2 12s infinite; }
+    .c2 { animation: kc2 12s infinite; }
+    .o2 { animation: ko2 12s infinite; }
+    .p3 { animation: kp3 12s infinite; }
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+
+    @keyframes kc1 { 0%, 6% { transform: scaleX(1); animation-timing-function: steps(7, end); }
+                     13%, 95% { transform: scaleX(0); } 100% { transform: scaleX(1); } }
+    @keyframes ko1 { 0%, 14% { opacity: 0; } 16%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes kp2 { 0%, 20% { opacity: 0; } 22%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes kc2 { 0%, 24% { transform: scaleX(1); animation-timing-function: steps(21, end); }
+                     36%, 95% { transform: scaleX(0); } 100% { transform: scaleX(1); } }
+    @keyframes ko2 { 0%, 37% { opacity: 0; } 39%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes kp3 { 0%, 42% { opacity: 0; } 43%, 95% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }
+
+    @keyframes fall { from { transform: translateY(-170px); } to { transform: translateY(310px); } }
+    .f1 { animation: fall 5.2s linear infinite; animation-delay: -1.1s; }
+    .f2 { animation: fall 7.4s linear infinite; animation-delay: -3.6s; }
+    .f3 { animation: fall 4.6s linear infinite; animation-delay: -0.4s; }
+    .f4 { animation: fall 8.1s linear infinite; animation-delay: -5.0s; }
+    .f5 { animation: fall 6.0s linear infinite; animation-delay: -2.2s; }
+    .f6 { animation: fall 5.5s linear infinite; animation-delay: -4.3s; }
+    .f7 { animation: fall 7.0s linear infinite; animation-delay: -1.8s; }
+    .f8 { animation: fall 4.9s linear infinite; animation-delay: -3.0s; }
+  </style>
+
+  <g clip-path="url(#panel)">
+    <rect width="850" height="260" fill="#0d1117"/>
+
+    <g class="rain">
+      <text class="f1" x="55"><tspan x="55" dy="0">7</tspan><tspan x="55" dy="15">A</tspan><tspan x="55" dy="15">0</tspan><tspan x="55" dy="15">x</tspan><tspan x="55" dy="15">F</tspan><tspan x="55" dy="15">1</tspan><tspan x="55" dy="15">λ</tspan><tspan x="55" dy="15">9</tspan></text>
+      <text class="f2" x="150"><tspan x="150" dy="0">0</tspan><tspan x="150" dy="15">1</tspan><tspan x="150" dy="15">C</tspan><tspan x="150" dy="15">4</tspan><tspan x="150" dy="15">E</tspan><tspan x="150" dy="15">7</tspan><tspan x="150" dy="15">0</tspan><tspan x="150" dy="15">B</tspan></text>
+      <text class="f3" x="255"><tspan x="255" dy="0">Σ</tspan><tspan x="255" dy="15">3</tspan><tspan x="255" dy="15">F</tspan><tspan x="255" dy="15">8</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">D</tspan><tspan x="255" dy="15">2</tspan><tspan x="255" dy="15">x</tspan></text>
+      <text class="f4" x="360"><tspan x="360" dy="0">9</tspan><tspan x="360" dy="15">0</tspan><tspan x="360" dy="15">A</tspan><tspan x="360" dy="15">5</tspan><tspan x="360" dy="15">C</tspan><tspan x="360" dy="15">1</tspan><tspan x="360" dy="15">E</tspan><tspan x="360" dy="15">7</tspan></text>
+      <text class="f5" x="465"><tspan x="465" dy="0">x</tspan><tspan x="465" dy="15">F</tspan><tspan x="465" dy="15">2</tspan><tspan x="465" dy="15">λ</tspan><tspan x="465" dy="15">8</tspan><tspan x="465" dy="15">0</tspan><tspan x="465" dy="15">4</tspan><tspan x="465" dy="15">D</tspan></text>
+      <text class="f6" x="570"><tspan x="570" dy="0">1</tspan><tspan x="570" dy="15">B</tspan><tspan x="570" dy="15">6</tspan><tspan x="570" dy="15">0</tspan><tspan x="570" dy="15">9</tspan><tspan x="570" dy="15">F</tspan><tspan x="570" dy="15">3</tspan><tspan x="570" dy="15">A</tspan></text>
+      <text class="f7" x="675"><tspan x="675" dy="0">E</tspan><tspan x="675" dy="15">4</tspan><tspan x="675" dy="15">0</tspan><tspan x="675" dy="15">7</tspan><tspan x="675" dy="15">Σ</tspan><tspan x="675" dy="15">C</tspan><tspan x="675" dy="15">1</tspan><tspan x="675" dy="15">5</tspan></text>
+      <text class="f8" x="780"><tspan x="780" dy="0">D</tspan><tspan x="780" dy="15">8</tspan><tspan x="780" dy="15">2</tspan><tspan x="780" dy="15">F</tspan><tspan x="780" dy="15">0</tspan><tspan x="780" dy="15">6</tspan><tspan x="780" dy="15">λ</tspan><tspan x="780" dy="15">B</tspan></text>
+    </g>
+
+    <rect width="850" height="260" fill="url(#scan)"/>
+
+    <rect width="850" height="36" fill="#161b22"/>
+    <circle cx="24" cy="18" r="7" fill="#ff5f56"/>
+    <circle cx="48" cy="18" r="7" fill="#ffbd2e"/>
+    <circle cx="72" cy="18" r="7" fill="#27c93f"/>
+    <text class="title" x="425" y="23" text-anchor="middle">lox@github: ~/profile</text>
+
+    <text class="prompt" x="28" y="78">lox@github:~$ <tspan class="cmd">whoami</tspan></text>
+    <rect class="cover c1" x="166" y="60" width="76" height="24"/>
+
+    <text class="hero o1" x="28" y="114">AI ENGINEER × REVERSE ENGINEER</text>
+
+    <g class="p2">
+      <text class="prompt" x="28" y="152">lox@github:~$ <tspan class="cmd">grep -i focus ~/.plan</tspan></text>
+    </g>
+    <rect class="cover c2" x="166" y="134" width="230" height="24"/>
+
+    <text class="out o2" x="28" y="184">[linux] → exploring&#160;&#160;&#160;[backend] → building&#160;&#160;&#160;[frontend] → vibing</text>
+
+    <g class="p3">
+      <text class="prompt" x="28" y="222">lox@github:~$</text>
+      <rect class="cursor" x="170" y="206" width="11" height="20" fill="#39FF14"/>
+    </g>
+
+    <rect x="0.5" y="0.5" width="849" height="259" rx="14" fill="none" stroke="#30363d"/>
+  </g>
+</svg>

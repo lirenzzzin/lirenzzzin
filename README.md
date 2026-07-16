@@ -1,31 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=root%40lox%3A~%23+whoami;AI+Engineer+%7C+Reverse+Engineer;Exploring+the+Linux+world%2C+one+syscall+at+a+time" alt="Typing SVG" />
+<img src="assets/header.svg" width="100%" alt="terminal header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=600&color=39FF14&center=true&vCenter=true&repeat=true&width=700&height=32&lines=exploring+the+Linux+world+%F0%9F%90%A7;backend-focused%2C+terminal-native;jailbreaking+AI+models+for+science;reversing+cheats+from+shady+devs;windows+internals%3F+that's+my+home+turf" alt="typing" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lirenzzzin&color=39FF14&style=flat-square&label=connections+established)
 
 </div>
 
-<br>
-
-```bash
-lox@debian:~$ cat /etc/motd
-```
-
-```
-██╗      ██████╗ ██╗  ██╗
-██║     ██╔═══██╗╚██╗██╔╝
-██║     ██║   ██║ ╚███╔╝
-██║     ██║   ██║ ██╔██╗
-███████╗╚██████╔╝██╔╝ ██╗
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-
->> AI Engineer & Reverse Engineer
->> currently deep-diving into the Linux world, backend-focused
->> status: compiling knowledge, not just kernels
-```
-
-<br>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `~$ ps aux | grep interests`
 
@@ -40,30 +23,24 @@ PID   USER    CMD
 
 I break things to understand them, then I write the report nobody asked for. Half my day is terminal-green text on black, the other half is arguing with Framer Motion about easing curves.
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `~$ cat stack.json`
 
-**Core / AI / Reverse Engineering**
+<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=39FF14)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=39FF14)
-![Assembly](https://img.shields.io/badge/-x86%20Assembly-000?style=for-the-badge&logo=assembly&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=39FF14)
-![GhidraNinja](https://img.shields.io/badge/-Ghidra%20%2F%20IDA-000?style=for-the-badge&logo=hackaday&logoColor=39FF14)
+<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,nodejs,python,c,linux,bash,git&theme=dark&perline=10" alt="stack" />
 
-**Frontend (the fun side-quest)**
+<br><br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=39FF14)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
 ![FramerMotion](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=39FF14)
-
-**Systems**
-
 ![Windows](https://img.shields.io/badge/-Windows%20Internals-000?style=for-the-badge&logo=windows&logoColor=39FF14)
+![Ghidra](https://img.shields.io/badge/-Ghidra%20%2F%20IDA-000?style=for-the-badge&logo=hackaday&logoColor=39FF14)
+![Assembly](https://img.shields.io/badge/-x86%20Assembly-000?style=for-the-badge&logo=assembly&logoColor=39FF14)
 
-<br>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `~$ man lox`
 
@@ -90,17 +67,39 @@ SEE ALSO
     /var/log/late-night-debugging, ~/.bash_history, coffee(1)
 ```
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `~$ uptime --stats`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lirenzzzin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=lirenzzzin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&rank_icon=github" alt="stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirenzzzin&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" alt="top langs" height="170" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lirenzzzin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lirenzzzin&theme=radical&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lirenzzzin&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lirenzzzin&bg_color=0d1117&color=c9d1d9&line=39ff14&point=ffffff&area=true&area_color=39ff14&hide_border=true&custom_title=commit%20activity" width="100%" alt="activity graph" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=lirenzzzin&theme=matrix&no-frame=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## `~$ ./snake --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lirenzzzin/lirenzzzin/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/lirenzzzin/lirenzzzin/output/snake.svg" alt="snake eating contributions" width="100%">
+</picture>
 
 </div>
 
@@ -111,6 +110,8 @@ lox@debian:~$ echo "connect" && sudo shutdown -h now
 ```
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:126329,100:39FF14&section=footer&text=see%20you%20in%20the%20shell&fontColor=39FF14&fontSize=22&fontAlignY=75&animation=fadeIn" width="100%" alt="footer" />
 
 *disclaimer: no systems were harmed in the making of this README — mostly*
 
