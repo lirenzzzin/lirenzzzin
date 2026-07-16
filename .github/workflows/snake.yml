@@ -1,4 +1,4 @@
-name: snake
+name: perfil
 
 on:
   schedule:
@@ -6,17 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: lirenzzzin
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+      - run: bash scripts/langs.sh lirenzzzin dist/langs.svg
+        env:
+          GH_TOKEN: ${{ github.token }}
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
