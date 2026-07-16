@@ -6,6 +6,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lirenzzzin&color=39FF14&style=flat-square&label=connections+established)
 
+<br>
+
+**English** · [Português](README.pt-br.md)
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
