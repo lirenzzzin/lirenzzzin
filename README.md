@@ -117,40 +117,45 @@ SEE ALSO
 ```
 PID   USER    CMD
 0001  lox     construindo & fazendo jailbreak de modelos de IA
-0002  lox     revertendo cheats de devs desonestos
+0002  lox     fazendo cheat de 100dol de chacota
 0003  lox     pesquisa em cibersegurança & análise de exploits
-0004  lox     afinando os internals do Windows até ele gritar
-0005  lox     descendo ao ring-0 quando o userland diz não
+0004  lox     afinando os internals do Windows até ele desistir de viver
+0005  lox     descendo ao ring-0 quando o userland tira minha liberdade
 0006  lox     entregando frontends afiados nas horas vagas (sim, sério)
 ```
+--
 
-Eu quebro as coisas pra entendê-las e depois escrevo o relatório que ninguém pediu. Metade do meu dia é texto verde de terminal no preto, a outra metade é discutir com o Framer Motion sobre curvas de easing.
 
+quebro codigos 
+
+https://st2.depositphotos.com/1001911/12400/v/950/depositphotos_124005550-stock-illustration-eye-popping-emoticon.jpg
+
+--
 ## `~$ man lox`
 
 ```
 NOME
-    lox - Engenheiro de IA, Engenheiro Reverso, turista profissional do Linux
+    lox - Engenheiro de IA, Engenheiro Reverso,  Aprendendo Linux
 
 DESCRIÇÃO
     Treina e faz red-team de modelos de IA — constrói jailbreaks pra achar
     onde as guardrails realmente quebram, não só onde elas dizem que quebram.
 
-    Reverte cheats de jogos, principalmente os feitos por devs que acham que
-    "desonesto" é modelo de negócio. A mesma habilidade é apontada pra
+    Reverte cheats pagos (torno eles gratuitos),
+    principalmente os feitos por devs que acham que
+    é suave meter um rat no meio. A mesma habilidade é pra
     cibersegurança quando há algo que vale a pena defender.
 
-    Conhece os internals do Windows bem o bastante pra fazer uma instalação
-    de fábrica parecer que pulou o dia de perna e começou a fazer cardio.
-    Quando o userland não é fundo o suficiente, desce ao ring-0 — drivers
-    de kernel, hooks e os andares do SO que não têm saída de incêndio.
-    Agora migrando essa obsessão pro Linux — território novo, mesma energia.
+    Conheço na palma da mão os internals do windows, mexo em qualquer coisa.
+    Quando o userland não é fundo o suficiente, desço para ring-0 as vezes.
+    mexo bem com drivers de kernel, hooks e os andares do SO onde nao chega luz.
+    Agora migrando essa obsessão pro Linux, território novo, mas mesma parada.
 
-    De vez em quando reaparece pra construir um frontend, porque encarar
+    De vez em quando reapareço pra construir um frontend, porque encarar
     disassembly o dia todo pede um respiro com animações bonitas.
 
 VEJA TAMBÉM
-    /var/log/debugging-de-madrugada, ~/.bash_history, cafe(1)
+    /var/log/debugging-de-madrugada, ~/.bash_history, weed(1)
 ```
 
 <br>
@@ -164,5 +169,5 @@ lox@debian:~$ echo "connect / conectar" && sudo shutdown -h now
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:126329,100:39FF14&section=footer&text=see%20you%20in%20the%20shell&fontColor=39FF14&fontSize=22&fontAlignY=75&animation=fadeIn" width="100%" alt="footer" />
 
 *no systems were harmed in the making of this README — mostly / nenhum sistema foi ferido na criação deste README — quase nenhum*
-
+piada mais bruh que voce viu hoje
 </div>
