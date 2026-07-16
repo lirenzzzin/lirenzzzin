@@ -128,7 +128,8 @@ PID   USER    CMD
 
 quebro codigos 
 
-https://st2.depositphotos.com/1001911/12400/v/950/depositphotos_124005550-stock-illustration-eye-popping-emoticon.jpg
+<img src="https://st2.depositphotos.com/1001911/12400/v/950/depositphotos_124005550-stock-illustration-eye-popping-emoticon.jpg" width="220" alt="quebro codigos">
+
 
 --
 ## `~$ man lox`
