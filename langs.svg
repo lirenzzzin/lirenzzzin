@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" viewBox="0 0 480 182" xml:space="preserve">
+<style>text{font-family:'JetBrains Mono','Fira Code','Courier New',monospace;font-size:14px}</style>
+<rect width="480" height="182" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="22" y="34" fill="#39FF14">lox@github:~$ <tspan fill="#e6edf3">langs --by-bytes</tspan></text>
+<text x="22" y="68"><tspan fill="#e6edf3">HTML          </tspan><tspan fill="#39FF14">█████████░░░░░░░░░░░</tspan><tspan fill="#8b949e">  43.4%</tspan></text>
+<text x="22" y="94"><tspan fill="#e6edf3">Python        </tspan><tspan fill="#39FF14">███████░░░░░░░░░░░░░</tspan><tspan fill="#8b949e">  33.0%</tspan></text>
+<text x="22" y="120"><tspan fill="#e6edf3">JavaScript    </tspan><tspan fill="#39FF14">████░░░░░░░░░░░░░░░░</tspan><tspan fill="#8b949e">  18.4%</tspan></text>
+<text x="22" y="146"><tspan fill="#e6edf3">Shell         </tspan><tspan fill="#39FF14">█░░░░░░░░░░░░░░░░░░░</tspan><tspan fill="#8b949e">   5.3%</tspan></text>
+</svg>
