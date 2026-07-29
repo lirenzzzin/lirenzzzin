@@ -136,7 +136,7 @@ quebro codigos
 
 ```
 NOME
-    lox - Engenheiro de IA, Engenheiro Reverso,  Aprendendo Linux
+    lox - Engenheiro de IA, Engenheiro Reverso, Domino Linux
 
 DESCRIÇÃO
     Treina e faz red-team de modelos de IA — constrói jailbreaks pra achar
